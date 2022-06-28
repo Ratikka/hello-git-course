@@ -1,10 +1,3 @@
-#<<<<<<< HEAD
-#<<<<<<< HEAD
-
-#=======
-
-#>>>>>>> intermed/master
-#=======
 print("Hello world!")
-print("Hello once again")
-#>>>>>>> feature/add-logging
+print("I've come to talk with you again")
+#>>>>>>> con/feature/modify-print
